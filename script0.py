@@ -1,2 +1,2 @@
-print('hello world')
+print('Hello World')
 print(2 ** 100)
